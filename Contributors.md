@@ -4624,4 +4624,5 @@ Michael Wong
 - [William Kan] (https://github.com/wkan17012021)
 - [Atharva Wasekar](https://github.com/Electric-Dragon/)
 - [Yash Chandak](https://github.com/ychandak17/)
+-just a dude
 <!-- prettier-ignore-end -->
